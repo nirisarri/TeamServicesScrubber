@@ -10,6 +10,7 @@ namespace TeamServicesScrubber
     {
         static void Main(string[] args)
         {
+
         }
     }
 }

@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamServicesScrubber", "TeamServicesScrubber\TeamServicesScrubber.csproj", "{913A08A9-BB73-4D61-B057-34CA0B1BA5BC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamServicesScrubber.Tests", "TeamServicesScrubber.Tests\TeamServicesScrubber.Tests.csproj", "{7DAAFBA3-2C7C-4158-A49D-526663F4448A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{913A08A9-BB73-4D61-B057-34CA0B1BA5BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{913A08A9-BB73-4D61-B057-34CA0B1BA5BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{913A08A9-BB73-4D61-B057-34CA0B1BA5BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DAAFBA3-2C7C-4158-A49D-526663F4448A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DAAFBA3-2C7C-4158-A49D-526663F4448A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DAAFBA3-2C7C-4158-A49D-526663F4448A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DAAFBA3-2C7C-4158-A49D-526663F4448A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
